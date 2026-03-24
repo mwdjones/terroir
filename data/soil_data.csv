@@ -1,0 +1,51 @@
+Location,Cultivar,MinDepth_in,MaxDepth_in,SampleCode,SoilTexture,OM_%,pH,OlsenP_ppm,BrayP_ppm,PotassiumK_ppm
+SMI,La Crescent,0,6,SM01,Coarse,3,7.3,,48,126
+SMI,La Crescent,6,12,SM02,Coarse,2.4,7.6,9,15,69
+SMI,La Crescent,12,18,SM03,Coarse,1.5,7.7,7,11,50
+SMI,Marquette,0,6,SM04,Coarse,2.6,6.9,,54,97
+SMI,Marquette,12,18,SM05,Coarse,1.4,7.3,,28,55
+SMI,Marquette,6,12,SM06,Coarse,1.7,7.1,,28,54
+HRC,Marquette,0,6,HRA1,Medium,4.2,7.4,,16,159
+HRC,Marquette,6,12,HRA2,Medium,2.5,7.5,5,6,158
+HRC,Marquette,12,18,HRA3,Medium,2,7.6,4,5,130
+HRC,La Crescent/Marquette,0,6,HRB1,Medium,3.7,7,,47,159
+HRC,La Crescent/Marquette,6,12,HRB2,Medium,2.9,7.2,,26,99
+HRC,La Crescent/Marquette,12,18,HRB3,Medium,2.3,7.3,,12,114
+HRC,Brianna,0,6,HRC1,Coarse,4.6,6.7,,29,169
+HRC,Brianna,6,12,HRC2,Medium,3.2,6.8,,13,125
+HRC,Brianna,12,18,HRC3,Medium,2.3,6.9,,8,136
+HRC,La Crescent/Marquette,0,6,HRD1,Medium,4,7.2,,5,150
+HRC,La Crescent/Marquette,6,12,HRD2,Medium,2.4,7.4,,2,109
+HRC,La Crescent/Marquette,12,18,HRD3,Medium,1.7,7.7,1,1,107
+HRC,Brianna/La Crescent,0,6,HRE1,Medium,3.8,7.2,,49,204
+HRC,Brianna/La Crescent,6,12,HRE2,Medium,2.8,7.5,23,30,133
+HRC,Brianna/La Crescent,12,18,HRE3,Medium,2.4,7.4,,12,139
+HRC,La Crescent/Marquette,0,6,HRF1,Coarse,2.7,6.2,,32,223
+HRC,La Crescent/Marquette,6,12,HRF2,Coarse,1.9,6.4,,16,144
+HRC,La Crescent/Marquette,12,18,HRF3,Coarse,1.6,6.8,,15,121
+HRC,,0,6,HRG1,Coarse,3.1,5.9,,9,122
+HRC,,6,12,HRG2,Coarse,3.1,6,,5,111
+HRC,,12,18,HRG3,Coarse,2.5,6.4,,5,140
+HRC,,0,6,HRH1,Coarse,2.8,6.2,,6,125
+HRC,,6,12,HRH2,Coarse,2.5,6.1,,2,129
+HRC,,12,18,HRH3,Coarse,2,6.5,,3,114
+HRC,,0,6,HRI1,Coarse,2.9,6.4,,4,136
+HRC,,6,12,HRI2,Coarse,2.5,6.6,,2,123
+HRC,,12,18,HRI3,Coarse,2.2,6.8,,2,124
+BIS,,0,6,ME01,Coarse,3.6,7.3,,25,268
+BIS,,6,12,ME02,Coarse,2.9,7.4,,6,121
+BIS,,12,18,ME03,Coarse,2.4,7.5,2,6,110
+BIS,,0,6,ME04,Coarse,3.3,6.5,,17,198
+BIS,,6,12,ME05,Coarse,2.5,6.5,,5,97
+BIS,,12,18,ME06,Coarse,2.1,6.7,,5,78
+ASH,,0,6,EV01,Coarse,4.1,7.3,,30,191
+ASH,,6,12,EV02,Coarse,3.6,7.5,9,12,124
+ASH,,12,18,EV03,Coarse,2.4,7.6,4,2,101
+ASH,,0,6,EV04,Medium,5.9,6.2,,63,225
+ASH,,6,12,EV05,Coarse,5.3,6.3,,20,95
+ASH,,12,18,EV06,Coarse,4.7,6.4,,20,114
+FER,,0,6,LA01,Coarse,2.1,6.8,,100,188
+FER,,6,12,LA02,Coarse,1.3,7,,100,142
+FER,,12,18,LA03,Coarse,0.8,7,,100,114
+BUF,,,,RO01,Coarse,3.4,8.3,44,72,300
+BUF,,,,RO02,Coarse,2.4,8.5,33,57,300
